@@ -1,0 +1,26 @@
+{
+  "name": "cppshub",
+  "version": "1.0.0",
+  "description": "These are the necessary files to host your own lightweight CPPS file service just like https://cppshub.pw/",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^4.0.0-alpha.3",
+    "jquery": "^3.1.0",
+    "pace-progress": "^1.0.2"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-uglify": "^2.0.0",
+    "merge-stream": "^1.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "author": "Cactii"
+}
